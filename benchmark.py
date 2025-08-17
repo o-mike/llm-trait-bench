@@ -41,8 +41,8 @@ def load_config() -> Dict[str, Any]:
             "cache_enabled": True,
             "cache_file": "responses_cache.json",
             "models": [
-                "google/gemini-1.5-pro",
-                "anthropic/claude-3-5-sonnet",
+                "google/gemini-pro-1.5",
+                "anthropic/claude-3.5-sonnet",
                 "deepseek/deepseek-chat",
                 "openai/gpt-4o",
                 "meta-llama/llama-3.1-405b-instruct",
