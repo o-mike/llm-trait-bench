@@ -18,6 +18,12 @@ A benchmarking tool that measures how easily Large Language Models shift to mani
 - OpenAI GPT-4o
 - Meta Llama 3.1 405B
 
+## 📸 Dashboard Preview
+
+![LLM Trait Benchmark Dashboard](screenshots/thingy.png)
+
+*Interactive Gradio dashboard showing benchmark results with manipulativeness scores, cache performance metrics, and detailed analysis across all tested models.*
+
 ## 🚀 Quick Start
 
 ### Prerequisites

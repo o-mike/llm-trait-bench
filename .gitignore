@@ -60,6 +60,9 @@ results/
 *.html
 *.png
 
+# Exception: Allow screenshots for README
+!screenshots/*.png
+
 # Logs
 *.log
 
