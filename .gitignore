@@ -44,6 +44,16 @@ Thumbs.db
 .env
 .env.local
 
+# Configuration files
+config.json
+config.yaml
+config.yml
+
+# Cache files
+cache/
+*.cache
+responses_cache.json
+
 # Results
 results/
 *.csv
